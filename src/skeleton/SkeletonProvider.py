@@ -1,7 +1,7 @@
 from masonite.provider import ServiceProvider
 
 
-class SkeletonServiceProvider(ServiceProvider):
+class SkeletonProvider(ServiceProvider):
     def boot(self):
         pass
 
