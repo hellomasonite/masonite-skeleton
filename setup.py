@@ -28,7 +28,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Application Frameworks',
         'Topic :: Software Development :: Libraries :: Python Modules',
     ],
-    keywords='social authentication masonite python',
+    keywords=':package_keywords',
     packages=find_packages('src'),
     install_requires=[
     ],
